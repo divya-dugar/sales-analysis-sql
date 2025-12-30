@@ -34,3 +34,10 @@ This project analyzes sales data using SQL to derive business insights related t
 ## Files in Repository
 - analysis.sql → All SQL queries used for analysis
 - schema.sql → Table creation and sample data insertion
+
+## Tools and environment
+-Mysql
+-Github
+
+## Author
+-Divya dugar
