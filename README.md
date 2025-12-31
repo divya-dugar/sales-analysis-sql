@@ -1,7 +1,8 @@
 # Sales Analysis Using SQL
 
 ## Project Overview
-This project analyzes sales data using SQL to derive business insights related to product performance, regional contribution, and sales trends over time.
+This project performs an end-to-end sales analysis using SQL to derive meaningful business insights related to product performance, regional contribution, and sales trends over time.
+The analysis is designed to simulate a real-world analytics task using structured query logic.
 
 ## Dataset Overview
 - Total records: 28
@@ -34,10 +35,11 @@ This project analyzes sales data using SQL to derive business insights related t
 ## Files in Repository
 - analysis.sql → All SQL queries used for analysis
 - schema.sql → Table creation and sample data insertion
+- insights.md → business insights and interpretations from the analysis
 
 ## Tools and environment
--Mysql
--Github
+- Mysql
+- Github
 
 ## Author
--Divya dugar
+- Divya dugar
